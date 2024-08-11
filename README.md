@@ -1,2 +1,20 @@
-# Mysellar-Global-Sales-Analysis
-Analysis of Mysellar Global Sales from 2019 to 2021
+# Introduction 
+
+## Objectives
+
+## Tools
+
+## Technique and Skill
+
+## Datasource
+
+## Data Model
+
+## Dashboard Insight
+
+### Overview
+
+## Recommendation 
+
+## Download
+
