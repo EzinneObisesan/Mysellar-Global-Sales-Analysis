@@ -1,4 +1,4 @@
-# Mysellar Global Sales Analysis (2019 - 2022)
+# Mysellar Global Sales Analysis (2019 - 2021)
 
 ## Introduction
 The purpose of this project was to analyze sales data to provide actionable insights for improving sales strategies and maximizing revenue. By delving into the dataset, we aimed to identify trends, understand customer behavior, and pinpoint opportunities for growth.
@@ -27,5 +27,5 @@ The purpose of this project was to analyze sales data to provide actionable insi
 - North America has the lowest sold unit, hence needs more advertisement 
 
 ## Download
-<a href = "https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/raw/main/images/Mysellar%20Global%20Sales%20Dataset%20Excel%20Dashboard%20(1).xlsx" Download the Excel file <a/>
+<a href = "https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/raw/main/images/Mysellar%20Global%20Sales%20Dataset%20Excel%20Dashboard%20(1).xlsx"> Download the Excel file <a/>
 
