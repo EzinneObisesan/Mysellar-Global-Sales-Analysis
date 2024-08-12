@@ -11,10 +11,15 @@ The purpose of this project was to analyze sales data to provide actionable insi
 - Excel
 
 ## Technique and Skill
-
+- Data normalisation
+- Pivot table
+- Data Visualization
+  
 ## Datasource
 
+
 ## Data Model
+
 
 ## Dashboard Insight
 
