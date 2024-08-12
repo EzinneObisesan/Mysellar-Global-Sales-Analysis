@@ -15,15 +15,12 @@ The purpose of this project was to analyze sales data to provide actionable insi
 - Pivot table
 - Data Visualization
   
-## Datasource
-
-
 ## Data Model
 ![Data Model](https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/blob/main/images/Screenshot%202024-08-12%20170829.png)
 
 ## Dashboard Insight
 ### Overview
-![Overview](https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/blob/main/images/Screenshot%20(25).png)
+![Overview Dashboard](https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/blob/main/images/Screenshot%20(25).png)
 
 ## Recommendation 
 
