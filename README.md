@@ -1,7 +1,7 @@
 # Mysellar Global Sales Analysis (2019 - 2022)
 
 ## Introduction
-- The purpose of this project was to analyze sales data to provide actionable insights for improving sales strategies and maximizing revenue. By delving into the dataset, we aimed to identify trends, understand customer behavior, and pinpoint opportunities for growth.
+The purpose of this project was to analyze sales data to provide actionable insights for improving sales strategies and maximizing revenue. By delving into the dataset, we aimed to identify trends, understand customer behavior, and pinpoint opportunities for growth.
 
 ## Objectives
 - To helps organizations harness the power of data, enabling them to make decisions, optimize processes, and gain a competitive edge.
