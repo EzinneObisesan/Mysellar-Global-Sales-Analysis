@@ -23,6 +23,9 @@ The purpose of this project was to analyze sales data to provide actionable insi
 ![Overview Dashboard](https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/blob/main/images/Screenshot%20(25).png)
 
 ## Recommendation 
+- More marketing should be done in the five bottonm countries
+- North America has the lowest sold unit, hence needs more advertisement 
 
 ## Download
+<a href = "https://github.com/EzinneObisesan/Mysellar-Global-Sales-Analysis/raw/main/images/Mysellar%20Global%20Sales%20Dataset%20Excel%20Dashboard%20(1).xlsx" Download the Excel file <a/>
 
